@@ -2,7 +2,7 @@
 
 A calm, beautiful night-sky game where you don't steer anything. You bend gravity instead.
 
-🎮 **Play now:** https://YOUR-USERNAME.github.io/starweaver/starweaver.html.
+🎮 **Play now:** https://YOUR-USERNAME.github.io/starweaver/index.html.
 
 ---
 
