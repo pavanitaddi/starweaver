@@ -2,7 +2,7 @@
 
 A calm, beautiful night-sky game where you don't steer anything. You bend gravity instead.
 
-🎮 **Play now:** https://pavani123.github.io/index.html/
+🎮 **Play now:** https://pavanitaddi.github.io/index.html/
 
 ---
 
